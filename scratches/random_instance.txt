@@ -1,0 +1,16 @@
+❯ nc 34.66.135.107 31337
+1 - launch new instance
+2 - kill instance
+3 - get flag
+action? 1
+ticket please: fb1225ec2e7359ed1aaae993650bd015f1605784589be2862d78e3
+
+your private blockchain has been deployed
+it will automatically terminate in 30 minutes
+here's some useful information
+uuid:           ca91cda6-ecc4-4ad6-8cde-97b9c339c008
+rpc endpoint:   http://34.66.135.107:8545/ca91cda6-ecc4-4ad6-8cde-97b9c339c008
+private key:    0x7aa804b14c42a6dfbdb7543a1cae6123b1bddc9611acd8403b2b1a560c3f2605
+setup contract: 0x41B9C002C508547Ace7F8DA9132B58b5cEBa91B6
+
+cast code --rpc-url http://34.66.135.107:8545/ca91cda6-ecc4-4ad6-8cde-97b9c339c008 0x41B9C002C508547Ace7F8DA9132B58b5cEBa91B6
